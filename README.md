@@ -8,7 +8,7 @@ yarn start
 ```
 
 ### Notes
-- [ ] Não está pronto para a produção
+- [ ] Ainda em desenvolvimento
 
 ### Ferramentas  
 - [React Native](https://reactnative.dev/)</p>
