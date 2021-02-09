@@ -15,3 +15,4 @@ yarn start
 - [React Navigation](https://reactnavigation.org/)</p>
 - [React Hook Form](https://react-hook-form.com/)</p>
 - [Yup](https://github.com/jquense/yup)</p>
+- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
